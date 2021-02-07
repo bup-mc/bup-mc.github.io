@@ -1,0 +1,26 @@
+# Setup
+title:               北瓜村
+tagline:             'A Common MC server'
+description:         '简单的MC正版JAVA服务器</br>
+                      一群热爱原版生存的玩家🕊</br>
+                      一个充当🚪面的官网。</br>
+                      一切只为开心。</br>
+                      Good Luck and Have Fun！🎇'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
